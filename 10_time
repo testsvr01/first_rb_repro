@@ -1,0 +1,4 @@
+count = 0
+10.times do
+puts "count.square"
+end
